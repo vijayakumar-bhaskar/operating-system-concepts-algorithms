@@ -1,4 +1,4 @@
-# operating_system_concepts_algorithms
+# operating system concepts algorithms
 
 this project contains main algorithms covered in operating system concepts book
 
